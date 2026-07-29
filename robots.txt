@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pickdesk.online/sitemap.xml
+Sitemap: https://pickdesk.online/sitemap-index.xml
