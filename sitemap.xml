@@ -26,6 +26,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://pickdesk.online/posts/field_note-001-13mh7l3.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://pickdesk.online/posts/field_note-001-f8vfm2.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -86,7 +91,17 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://pickdesk.online/posts/guide-005-ngj0sv.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://pickdesk.online/posts/major_compare-001-gbifv4.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://pickdesk.online/posts/major_compare-002-1w2bvyx.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -136,6 +151,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://pickdesk.online/posts/myth-004-1ni3bzc.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://pickdesk.online/posts/myth-005-13qe9kv.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -152,6 +172,11 @@
   </url>
   <url>
     <loc>https://pickdesk.online/posts/qa-003-1c8uvx4.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://pickdesk.online/posts/qa-003-1dd82ps.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
